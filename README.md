@@ -11,20 +11,20 @@
 
 <br />
 <br />
-<img alt="Chijoke Ogbuanya" align="right" src="https://raw.githubusercontent.com/mihir069/mihir0699/master/Untitled%20design.png" width="400px"/>
+<img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/EngrGord/EngrGord/master/pngwing.com.png" width="400px"/>
 
 <h3>Hi, I'm Chijoke Ogbuanya, a passionate self-taught <strong>Full Stack developer</strong> and a <strong>smart contract Programming Enthusiast</strong>.</h3>
 
 <br/>
 
 
-- 🔭 I’m currently speed running Ethereum working with two startups.<br/>
+- 🔭 I’m currently speed running Ethereum and working as a frontend dev with two startups.<br/>
 
-- 🌱 I’m currently a learning <strong>Software Engineering</strong>
+- 🌱 I’m currently pursuing a degree in <strong>Software Engineering</strong>
 
 - 🤔 Ask me about JavaScript, Web Development and smart comtracts
 
-- ☕ I play well with some coffee
+- ☕ I play well with some coffee. lol
 
 - :mailbox: Reach out to me at : chijokeogbuanya@gmail.com<br/>
 
