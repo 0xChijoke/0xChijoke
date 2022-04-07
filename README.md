@@ -40,7 +40,7 @@
  </p>
 <p align = 'center'> 
 <a href="https://github.com/EngrGord/EngrGord">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EngrGord_dark&count_private=true&theme=" alt="Chijoke's github stats" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EngrGord&count_private=true&theme=" alt="Chijoke's github stats" />
 </a>
   <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chijioke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EngrGord"</p>
