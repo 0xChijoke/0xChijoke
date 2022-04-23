@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently [speed running Ethereum](https://speedrunethereum.com/) and working as a Frontend dev.<br/>
 
-- 🤖 <strong>Builder</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209)
+- 🤖 <strong>BUILDER</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209)
 
 - 🌱 I’m currently pursuing a degree in <strong>Software Engineering</strong>
 
