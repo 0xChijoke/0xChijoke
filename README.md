@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently [speed running Ethereum](https://speedrunethereum.com/) and working as a Frontend dev.<br/>
 
-- 🌱 I’m currently pursuing a degree in <strong>Software Engineering</strong>
+- 🌱 I’m also pursuing a degree in <strong>Software Engineering</strong>
 
 - 🤔 Ask me about JavaScript, Web Development and smart comtracts
 
