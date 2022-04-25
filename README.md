@@ -13,7 +13,7 @@
 <br />
 <img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/EngrGord/EngrGord/master/pngwing.com.png" width="400px"/>
 
-<h3>I'm a passionate self-taught <strong>Full Stack developer</strong> and a <strong>smart contract Programming Enthusiast</strong>.</h3>
+<h3>I'm a passionate <strong>FullStack developer</strong> and a <strong>smart contract Programming Enthusiast</strong>.</h3>
 
 <br/>
 
