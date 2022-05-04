@@ -18,7 +18,7 @@
 <br/>
 
 
-- 🌍 Open to new opportunities, look at my frontend work at [KeenChess](https://keen-chess.vercel.app/).
+- 🌍 Open to new opportunities. Look at my frontend work at [KeenChess](https://keen-chess.vercel.app/).
 
 - 🤖 <strong>BUILDER</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209)
 
