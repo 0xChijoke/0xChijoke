@@ -1,9 +1,7 @@
 # Hi there, I'm [Chijioke](https://github.com/EngrGord) 👋
 
 
-[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/EngrGord)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@chijoke) [<img src='media/icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery) 
-
-<br />
+[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/EngrGord)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@chijoke)
 <br />
 <img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/EngrGord/EngrGord/master/pngwing.com.png" width="400px"/>
 
