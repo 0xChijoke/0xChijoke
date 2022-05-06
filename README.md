@@ -1,26 +1,24 @@
 # Hi there, I'm [Chijioke](https://github.com/EngrGord) 👋
-<a href="https://twitter.com/chijoke_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
-<a href="mailto:chijokeogbuanya@gmail.com?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/chijoke-ogbuanya/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
-</a>
+
+
+[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/EngrGord)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@chijoke) [<img src='media/icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery) 
 
 <br />
 <br />
 <img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/EngrGord/EngrGord/master/pngwing.com.png" width="400px"/>
 
-<h3>Hi, I'm Chijoke Ogbuanya, a passionate self-taught <strong>Full Stack developer</strong> and a <strong>smart contract Programming Enthusiast</strong>.</h3>
+<h3>I'm a passionate <strong>FullStack developer</strong> and a <strong>smart contract Programming Enthusiast</strong>.</h3>
 
 <br/>
 
 
-- 🔭 I’m currently speed running Ethereum and working as a frontend dev with two startups.<br/>
+- 🌍 Open to new opportunities. Check out what am currently working on at [KeenChess](https://keen-chess.vercel.app/).
 
-- 🌱 I’m currently pursuing a degree in <strong>Software Engineering</strong>
+- 🤖 <strong>BUILDER</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209)
+
+- 🔭 I’m currently [speed running Ethereum](https://speedrunethereum.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209) and Googling stuff.<br/>
+
+- 🌱 I’m also pursuing a degree in <strong>Software Engineering</strong>
 
 - 🤔 Ask me about JavaScript, Web Development and smart comtracts
 
