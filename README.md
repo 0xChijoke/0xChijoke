@@ -41,10 +41,11 @@
   <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chijioke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EngrGord"</p>
  
+ <div width='100%'>
  <h3 align="center"> Visitors</h3>
 <p align="center">
   <a href="https://github.com/EngrGord/github-profile-count">
     <img align="center" src="https://profile-counter.glitch.me/{EngrGord}/count.svg" />
     </a>
   </p>
- 
+ </div>
