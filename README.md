@@ -17,7 +17,7 @@
 
 - 🌱 I’m also pursuing a degree in <strong>Software Engineering</strong>
 
-- 🤔 Ask me about JavaScript, Web Development and smart comtracts
+- 🤔 Ask me about JavaScript, Web Development and smart comtracts.
 
 - ☕ I play well with some coffee. lol
 
