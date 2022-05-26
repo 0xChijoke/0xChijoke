@@ -11,7 +11,7 @@
 
 - 🌍 Open to new opportunities. Check out what I'm currently working on at [KeenChess](https://keen-chess.vercel.app/).
 
-- 🤖 <strong>BUILDER</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209)
+- 🤖 <strong>BUILDER</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209).
 
 - 🔭 I’m currently [speed running Ethereum](https://speedrunethereum.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209), learning Rust and Googling stuff.<br/>
 
