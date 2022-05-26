@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently [speed running Ethereum](https://speedrunethereum.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209), learning Rust and Googling stuff.<br/>
 
-- 🌱 I’m also pursuing a degree in <strong>Software Engineering</strong>
+- 🌱 I’m also pursuing a degree in <strong>Software Engineering</strong>.
 
 - 🤔 Ask me about JavaScript, Web Development and smart comtracts.
 
