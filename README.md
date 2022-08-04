@@ -11,8 +11,6 @@
 
 - 🌍 Open to new opportunities.
 
-[comment]: <> ( 🤖 <strong>BUILDER</strong> at [🏰️BuidlGuidl](https://bazaar.buidlguidl.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209).)
-[comment]: <> ([speed running Ethereum](https://speedrunethereum.com/builders/0x1E8c64Fd8F94da1d0E23853118B7F73a7B467209),)
 - 🔭  Building on Ethereum, learning Rust and Googling stuff.<br/>
 
 - 🌱 Degree in <strong>Software Engineering</strong>.
