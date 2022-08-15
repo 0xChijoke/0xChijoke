@@ -1,4 +1,4 @@
-# Hi there, I'm [Chijioke](https://github.com/EngrGord) 👋
+# Hi there, I'm [CJ](https://github.com/EngrGord) 👋
 
 
 [<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/EngrGord)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord)
