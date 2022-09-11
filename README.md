@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🌍 Open to new opportunities.
+- 🌍 Open Source.
 
 - 🔭  Building on Ethereum, learning Rust and Googling stuff.<br/>
 
