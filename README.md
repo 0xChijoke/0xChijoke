@@ -10,6 +10,7 @@
 <br/>
 
 - 🌍 Open Source.
+-  [🏰 BuidlGuidl](https://buidlguidl.com/) and [SpeedRunEthereum](https://speedrunethereum.com/) 
 
 - 🔭  Building on Ethereum, learning Rust and Googling stuff.<br/>
 
