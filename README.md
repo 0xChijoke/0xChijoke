@@ -14,7 +14,7 @@
 
 - 🔭  Building on Ethereum, learning Rust and Googling stuff.<br/>
 
-- 🌱 Degree in <strong>Software Engineering</strong>.
+- 🌱 <strong>Software Engineering</strong>.
 
 - 🤔 Ask me about JavaScript, Web Development and smart comtracts.
 
