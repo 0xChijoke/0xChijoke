@@ -5,14 +5,14 @@
 <br />
 <img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/EngrGord/EngrGord/master/pngwing.com.png" width="400px"/>
 
-<h3>I'm a passionate <strong>FullStack developer</strong> and a <strong>smart contract Programmer.</strong></h3>
+<h3>I'm a passionate <strong>FullStack Developer</strong> and a <strong>Smart Contract Programmer.</strong></h3>
 
 <br/>
 
 - 🌍 Open Source.
 -  [🏰 BuidlGuidl](https://buidlguidl.com/) and [SpeedRunEthereum](https://speedrunethereum.com/) 
 
-- 🔭  Building on Ethereum, learning Rust and Googling stuff.<br/>
+- 🔭  Building on Ethereum, learning Rust and prompting A.I.<br/>
 
 - 🌱 <strong>Software Engineering</strong>.
 
