@@ -1,9 +1,9 @@
 # Hi there, I'm [CJ](https://github.com/EngrGord) 👋
 
 
-[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/EngrGord)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord)
+[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/0xChijoke)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord)
 <br />
-<img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/EngrGord/EngrGord/master/pngwing.com.png" width="400px"/>
+<img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/0xChijoke/0xChijoke/master/pngwing.com.png" width="400px"/>
 
 <h3>I'm a passionate <strong>FullStack Developer</strong> and a <strong>Smart Contract Programmer.</strong></h3>
 
@@ -23,7 +23,7 @@
 - :mailbox: Reach out to me at : chijokeogbuanya@gmail.com<br/>
 
 <a href='https://github.com/pricing'></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngrGord&layout=compact&theme=github_dark&count_private=true)](https://github.com/EngrGord/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChijoke&layout=compact&theme=github_dark&count_private=true)](https://github.com/0xChijoke/github-readme-stats)
 
 <h3>Tech Stack</h3>
 <p align="left">
@@ -33,17 +33,17 @@
 
  </p>
 <p align = 'center'> 
-<a href="https://github.com/EngrGord/EngrGord">
+<a href="https://github.com/0xChijoke/0xChijoke">
   <img align="left" alt="Chijoke's github stats" src="https://github-readme-stats.vercel.app/api?username=EngrGord&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
   <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chijioke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EngrGord"</p>
+<p><a href="https://www.buymeacoffee.com/chijioke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xChijoke"</p>
  
  <p width='100%'>
  <h3 align="center"> Visitors</h3>
 <p align="center">
-  <a href="https://github.com/EngrGord/github-profile-count">
-    <img align="center" src="https://profile-counter.glitch.me/{EngrGord}/count.svg" />
+  <a href="https://github.com/0xChijoke/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{0xChijoke}/count.svg" />
     </a>
   </p>
  </p>
