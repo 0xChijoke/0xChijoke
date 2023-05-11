@@ -14,11 +14,11 @@
 
 - 🔭  Building on Ethereum, learning Rust and A.I.<br/>
 
-- 🌱 <strong>Software Engineering</strong>.
+- 🌱 <strong>Software Engineering.</strong>.
 
 - 🤔 Ask me about JavaScript, Web Development and smart comtracts.
 
-- ☕ I play well with some coffee. lol
+- ☕ I play well with some coffee.
 
 - :mailbox: Reach out to me at : chijokeogbuanya@gmail.com<br/>
 
