@@ -16,11 +16,11 @@
 
 - 🌱 <strong>Software Engineering.</strong>.
 
-- 🤔 Ask me about JavaScript, Web Development and smart comtracts.
+- 🤔 Ask me about JavaScript, Web Development and smart contracts.
 
 - ☕ I play well with some coffee.
 
-- :mailbox: Reach out to me at : chijokeogbuanya@gmail.com<br/>
+- :mailbox: Reach out to me at: chijokeogbuanya@gmail.com<br/>
 
 <a href='https://github.com/pricing'></a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChijoke&layout=compact&theme=github_dark&count_private=true)](https://github.com/0xChijoke/github-readme-stats)
