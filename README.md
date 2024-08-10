@@ -6,9 +6,8 @@
 <!-- [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/0xChijioke)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord) -->
 <br />
 <!-- <img alt="Chijioke Ogbuanya" align="right" src="https://raw.github.com/0xChijoke/0xChijoke/master/pngwing.com.png" width="400px"/> -->
-<h3>I'm a <strong>Web3 Engineer</strong></h3>
+<h3><strong>web3 Engineering</strong></h3>
 <br/>
-
 - 🔭 Explorer.<br/>
 
 - 🌍 Contributing to Open Source.
@@ -19,7 +18,7 @@
 
 - 🌟 Fun Fact: I'm a dreamer with a passion for blending technology and imagination!
 
-
+<br/>
 <a href='https://github.com/pricing'></a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChijioke&layout=compact&theme=github_dark&count_private=true)](https://github.com/0xChijioke/github-readme-stats)
 
