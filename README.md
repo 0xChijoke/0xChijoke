@@ -1,26 +1,26 @@
-# Hi there, I'm [CJ](https://github.com/EngrGord) 👋
+# Hello, call me [CJ](https://github.com/0xChijioke) 👋
 
 
-[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/0xChijoke)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijoke-ogbuanya/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/chijoke_)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord)
+<!-- [<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/0xChijioke)     -->
+<!-- [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chijioke-ogbuanya/)   -->
+<!-- [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/0xChijioke)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord) -->
 <br />
-<img alt="Chijoke Ogbuanya" align="right" src="https://raw.github.com/0xChijoke/0xChijoke/master/pngwing.com.png" width="400px"/>
+<img alt="Chijioke Ogbuanya" align="right" src="https://raw.github.com/0xChijoke/0xChijoke/master/pngwing.com.png" width="400px"/>
 
-<h3>I'm a passionate <strong>FullStack Developer</strong> and a <strong>Smart Contract Programmer.</strong></h3>
+<h3>I'm a <strong>Web3 Engineer</strong></h3>
 
 <br/>
 
-- 🌍 Open Source.
--  [🏰 BuidlGuidl](https://buidlguidl.com/) and [SpeedRunEthereum](https://speedrunethereum.com/) 
+- 🔭 Explorer.<br/>
 
-- 🔭  Building on Ethereum, learning Rust and A.I<br/>
+- 🌍 Contributing to Open Source.
 
-- 🌱 <strong>Software Engineering.</strong>.
+- 📚 Learning about Token Engineering.
 
-- 🤔 Ask me about JavaScript, Web Development and smart contracts.
+- 💡 Background in Electrical/Electronic Eng.
 
-- ☕ I play well with some coffee.
+- 🌟 Fun Fact: I'm a dreamer with a passion for blending technology and imagination!
 
-- :mailbox: Reach out to me at: chijokeogbuanya@gmail.com<br/>
 
 <a href='https://github.com/pricing'></a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChijoke&layout=compact&theme=github_dark&count_private=true)](https://github.com/0xChijoke/github-readme-stats)
@@ -33,17 +33,15 @@
 
  </p>
 <p align = 'center'> 
-<a href="https://github.com/0xChijoke/0xChijoke">
-  <img align="left" alt="Chijoke's github stats" src="https://github-readme-stats.vercel.app/api?username=0xChijoke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/0xChijoke/0xChijioke">
+  <img align="left" alt="Chijoke's github stats" src="https://github-readme-stats.vercel.app/api?username=0xChijioke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chijioke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xChijoke"</p>
  
  <p width='100%'>
  <h3 align="center"> Visitors</h3>
 <p align="center">
-  <a href="https://github.com/0xChijoke/github-profile-count">
-    <img align="center" src="https://profile-counter.glitch.me/{0xChijoke}/count.svg" />
+  <a href="https://github.com/0xChijioke/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{0xChijioke}/count.svg" />
     </a>
   </p>
  </p>
