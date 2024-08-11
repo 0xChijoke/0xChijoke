@@ -8,7 +8,8 @@
 <!-- <img alt="Chijioke Ogbuanya" align="right" src="https://raw.github.com/0xChijoke/0xChijoke/master/pngwing.com.png" width="400px"/> -->
 <h3><strong>web3 Engineering</strong></h3>
 <br/>
-- 🔭 Explorer.<br/>
+
+- 🔭 Explorer.
 
 - 🌍 Contributing to Open Source.
 
@@ -16,7 +17,7 @@
 
 - 💡 Background in Electrical/Electronic Eng.
 
-- 🌟 Fun Fact: I'm a dreamer with a passion for blending technology and imagination!
+- 🌟 Fun Fact: I have a passion for blending technology and imagination!
 
 <br/>
 
