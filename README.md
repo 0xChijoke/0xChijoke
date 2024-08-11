@@ -1,4 +1,4 @@
-## Hi there, you can call me [CJ](https://github.com/0xChijioke)
+## Hi there, you can call me [Cj](https://github.com/0xChijioke)
 
 
 <!-- [<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/0xChijioke)     -->
@@ -19,6 +19,7 @@
 - 🌟 Fun Fact: I'm a dreamer with a passion for blending technology and imagination!
 
 <br/>
+
 <a href='https://github.com/pricing'></a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChijioke&layout=compact&theme=github_dark&count_private=true)](https://github.com/0xChijioke/github-readme-stats)
 
