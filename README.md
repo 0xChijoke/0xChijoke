@@ -13,11 +13,7 @@
 
 - 🌍 Contributing to Open Source.
 
-- 📚 Learning about Token Engineering.
-
-- 💡 Background in Electrical/Electronic Eng.
-
-- 🌟 Fun Fact: I have a passion for blending technology and imagination!
+- 📚 Learning about Token Engineering and DePIN.
 
 <br/>
 
