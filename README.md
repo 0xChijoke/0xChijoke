@@ -1,4 +1,4 @@
-## Hi there, you can call me [Cj](https://github.com/0xChijioke)
+## Hi there, I'm [Cj](https://github.com/0xChijioke)
 
 
 <!-- [<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/0xChijioke)     -->
