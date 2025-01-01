@@ -13,7 +13,7 @@
 
 - 🌍 Contributing to Open Source.
 
-- 📚 Learning about Token Engineering and DePIN.
+- 📚 Learning about AI, Token Engineering and DePIN.
 
 <br/>
 
